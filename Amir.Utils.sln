@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amir.Utils", "Amir.Utils\Amir.Utils.csproj", "{9430CB3C-65EE-24FF-E78A-6288EBB90598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amir.Utils.Demo", "Amir.Utils.Demo\Amir.Utils.Demo.csproj", "{1888F0FE-EE40-8CD4-210D-65479ED44EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9430CB3C-65EE-24FF-E78A-6288EBB90598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9430CB3C-65EE-24FF-E78A-6288EBB90598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9430CB3C-65EE-24FF-E78A-6288EBB90598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9430CB3C-65EE-24FF-E78A-6288EBB90598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1888F0FE-EE40-8CD4-210D-65479ED44EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1888F0FE-EE40-8CD4-210D-65479ED44EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1888F0FE-EE40-8CD4-210D-65479ED44EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1888F0FE-EE40-8CD4-210D-65479ED44EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBA688B-22B6-43DD-B39C-D3DF24A93941}
+	EndGlobalSection
+EndGlobal
